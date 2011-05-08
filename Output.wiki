@@ -1,13 +1,7 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+= Image Object Extraction using Watershed Transform and Edge Region Information =
 
-Add your content here.
+Segmentation plays an important role in computer vision and is used when we need to automate a particular activity. Computer Vision is basically divided into two parts:- object extraction and image analysis. Different techniques have been proposed to extract important features from aerial images. These techniques either use region-based techniques or edge-based methods. Unfortunately these techniques are not suitable for the high resolution images now available as they also provide us with superfluous details which are not useful for image analysis. As a consequence of this situation, two new detection techniques are used for the extraction of objects from high resolution satellite imagery. Within this framework, the project presented here focuses on edge-based region growing and edge-based watershed.
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+||table||cells||
