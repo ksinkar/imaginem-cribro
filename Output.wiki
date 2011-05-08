@@ -22,7 +22,7 @@ http://lh5.ggpht.com/_IgtwgUS_nQU/TPhwHHRsNvI/AAAAAAAAAK0/PPPz1_7GkU0/s912/canny
 
 == Watershed Segmentation Using Edge Markers ==
 
-http://lh5.ggpht.com/_IgtwgUS_nQU/TPhwHTKvZI/AAAAAAAAALA/nfA751t3owA/s912/watershed.jpg
+http://lh5.ggpht.com/_IgtwgUS_nQU/TPhwHTKv-ZI/AAAAAAAAALA/nfA751t3owA/s912/watershed.jpg
 
 == Segmented Image superimposed on the original Image ==
 
